@@ -3,6 +3,6 @@
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Java and python projects and would love to learn more about it...
 - 📫 You can reach me through email ...
-- My email : subikshasvaidhyanathan@gmail.com
+- My email :ishanathan04@gmail.com
 
 
