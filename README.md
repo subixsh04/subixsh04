@@ -1,7 +1,9 @@
 # 👋 Hi there, I’m Subiksha Vaidhyanathan.
 
-🎓 Junior Computer Science student @ Wright State University (Ohio, USA)  
+🎓 Junior Computer Science student @ Wright State University (Ohio, USA)
+
 🧠 Tech enthusiast | Undergraduate Teaching Assistant | Intern @ Expeditors | Social Media Chairperson @ ASA
+
 🌏 Born in San Jose, grew up in India. Studying in the Wright State University,USA. Building across both worlds.  
 
 ---
@@ -34,8 +36,8 @@ Exploring:    Scikit-learn • Pandas • Data Cleaning • EDA • ML Projects
 ---
 
 ## Connect with Me
-- https://www.linkedin.com/in/subiksha04/
-- https://github.com/subixsh04
-- 📫 Email: subikshasvaidhynathan@gmail.com 
+- LinkedIn: https://www.linkedin.com/in/subiksha04/
+- GitHub: https://github.com/subixsh04
+- Email: subikshasvaidhynathan@gmail.com 
 
 
