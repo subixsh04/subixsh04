@@ -2,6 +2,7 @@
 
 🎓 Junior Computer Science student @ Wright State University (Ohio, USA)  
 🧠 Tech enthusiast | Undergraduate Teaching Assistant | Intern @ Expeditors | Social Media Chairperson @ ASA
+
 🌏 Born in San Jose, grew up in India. Studying in the Wright State University,USA. Building across both worlds.  
 
 ---
