@@ -1,12 +1,37 @@
-# 👋 Hi there, I’m Subiksha Vaidhyanathan. I know we are connecting virtually although an in-person meet up would have been fanatastic. But without further mis-directions here we go!
+# 👋 Hi there, I’m Subiksha Vaidhyanathan.
+
+🎓 Junior Computer Science student @ Wright State University (Ohio, USA)  
+🧠 Tech enthusiast | Undergraduate Teaching Assistant | Intern @ Expeditors | Social Media Chairperson @ ASA
+🌏 Born in San Jose, grew up in India. Studying in the Wright State University,USA. Building across both worlds.  
+
+---
 
 ## About me
-- 🔭 Currently immersed in the realm of Object Orientated Programming as I pursue my Bachelor of Science degree in Computer Science at Wright State University, Dayton, Ohio, USA.
-- 👀 I am a passionate software engineer with a strong foundation in JAVA, C++, MySQL, HTML5, Python and a knack for problem-solving. My journey in software engineering began with a fascination for creating elegant solutions to complex problems, and since then, I have improved my skills through hands-on experience and continuous learning.
-- I am currently pursing my Bachelor's of Science in Computer Science from Wright State University, Dayton, OH, USA.
-- 🌱 I’m constantly honing my programming skills in Java, Linux and Cyber security.
-- 💞️ I’m love working projects on Java, C++ and Python projects and would love to learn more about it and am constantly learning new tricks and different methods to implement the same problem because of my profession as a Teaching Assistant in my Uniersity.
-- 📖 Lifelong learner and tech enthusiast, I am always seeking to expand my skills and stay on top of the latest trends in Web desgining, Cybersecurity, and Object Orientated programming.
+
+I’m a passionate software engineer who loves solving real-world problems through clean, scalable code and thoughtful design. My journey began with Java and C++, and has grown into full-stack web development, AI/ML exploration, and teaching others through my TA role.
+
+Here’s a quick snapshot of who I am:
+
+- 💻 Currently pursuing my B.S. in Computer Science with a Math minor  
+- 🔐 Teaching Assistant for Java  
+- 📚 Lifelong learner focused on Full-Stack Development and AI/ML  
+- 🌟 Director of Advocacy, NRHH | Exec Board @ Community Council | Social Media Chairperson @ Asian Student Association
+- 🤝 Actively building projects in Angular, Firebase, Python, and Node.js  
+- 🌍 Passionate about using tech to tell stories and make a global impact
+
+---
+
+## 🛠️ Technologies & Tools
+
+Languages:    Java • Python • C++ • TypeScript • HTML/CSS • SQL  
+
+Frameworks:   Angular • Firebase • Node.js • Express.js  
+
+Tools/Other:  Git • GitHub • VSCode • MongoDB • MySQL • Postman  
+
+Exploring:    Scikit-learn • Pandas • Data Cleaning • EDA • ML Projects
+
+---
 
 ## Connect with Me
 - https://www.linkedin.com/in/subiksha04/
