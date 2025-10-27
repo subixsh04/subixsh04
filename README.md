@@ -1,6 +1,6 @@
 # 👋 Hi there, I’m Subiksha Vaidhyanathan.
 
-🎓 Junior Computer Science student @ Wright State University (Ohio, USA)
+🎓 Senior Computer Science student @ Wright State University (Ohio, USA)
 
 🧠 Tech enthusiast | Undergraduate Teaching Assistant | Intern @ Expeditors | Social Media Chairperson @ ASA
 
@@ -15,9 +15,9 @@ I’m a passionate software engineer who loves solving real-world problems throu
 Here’s a quick snapshot of who I am:
 
 - 💻 Currently pursuing my B.S. in Computer Science with a Math minor  
-- 🔐 Teaching Assistant for Java  
+- 🔐 Teaching Assistant for Java Programming Class  
 - 📚 Lifelong learner focused on Full-Stack Development and AI/ML  
-- 🌟 Director of Advocacy, NRHH | Exec Board @ Community Council | Social Media Chairperson @ Asian Student Association
+- 🌟 Director of Recruitment, NRHH | Vice President @ Community Council(RCA) | Social Media Chairperson @ Asian Student Association
 - 🤝 Actively building projects in Angular, Firebase, Python, and Node.js  
 - 🌍 Passionate about using tech to tell stories and make a global impact
 
@@ -25,7 +25,7 @@ Here’s a quick snapshot of who I am:
 
 ## 🛠️ Technologies & Tools
 
-Languages:    Java • Python • C++ • TypeScript • HTML/CSS • SQL  
+Languages:    Java • Python • C++ • Kotlin • TypeScript • HTML/CSS • SQL
 
 Frameworks:   Angular • Firebase • Node.js • Express.js  
 
